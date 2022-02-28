@@ -1,1 +1,1 @@
-# galaxy_guide
+# The Galaxy Guide
